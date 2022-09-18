@@ -22,3 +22,6 @@ function addNum() {
     num3 = num1 / num2;
     document.frmadd.txt3.value = num3;
   }
+  
+    
+  
